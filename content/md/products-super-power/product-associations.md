@@ -25,10 +25,10 @@ To check the association types:
 1.  Click on the `Show products` button on the right-hand side of the tab to display the product grid
 
 :::info
-You can define associations on [product models](/articles/what-about-products-variants.html#what-is-a-product-model), refer to this [article](/articles/enrich-products-variants.html#associate) for more details.
+You can define associations on [product models](what-about-products-variants.html#what-is-a-product-model), refer to this [article](enrich-products-variants.html#associate) for more details.
 :::
 
-Only the associated products or [product models](/articles/what-about-products-variants.html#what-is-a-product-model) are displayed in the `Associations` tab.
+Only the associated products or [product models](what-about-products-variants.html#what-is-a-product-model) are displayed in the `Associations` tab.
 
 ![View the associated products](../img/Products_ProductsAssociated21.png)
 
@@ -40,7 +40,7 @@ By default, if the product has no association for the selected association type,
 
 ## Add associations to a product
 
-To add associations, there is a picker to select products or [product models](/articles/what-about-products-variants.html#what-is-a-product-model) to associate:
+To add associations, there is a picker to select products or [product models](what-about-products-variants.html#what-is-a-product-model) to associate:
 1.  Open the Product Form
 1.  Click on the `Associations` tab
 1.  Select the association type
