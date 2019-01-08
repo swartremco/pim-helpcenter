@@ -150,7 +150,7 @@ For almost each screen and button in the PIM, you can say if a user can see/use 
 | Edit an attribute group | User can edit an attribute group under the `Settings`/`Attribute groups` menu entry  |
 | View attribute group history | User can access the `History` tab of the attribute groups |
 | List attribute groups | User can see and access all attribute groups listed under `Settings`/`Attribute groups` |
-| Remove an attribute group | User can delete an attribute group uner the `Settings`/`Attribute groups` menu entry |
+| Remove an attribute group | User can delete an attribute group under the `Settings`/`Attribute groups` menu entry |
 | Remove an attribute from a group | User can remove an attribute from the attribute group, by clicking on the trash icon |
 | Sort attribute groups | User can sort attribute groups by dragging and droping them up and down |
 | Manage attribute group permissions _(EE only)_ | User can access to the `Permissions` tab on the attribute group and set permissions on them |
